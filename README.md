@@ -17,10 +17,10 @@ Designed as a lightweight, offline-first Windows application.
 ## 🖼 Screenshots
 
 ### Main Window
-![Main Window](Images/ss/main.png)
+![Main Window](resources/images/main.png)
 
 ### UI Design
-![UI Design](Images/ss/ui.png)
+![UI Design](resources/images/ui.png)
 
 > Screenshots are taken from the actual application running on Windows.
 
